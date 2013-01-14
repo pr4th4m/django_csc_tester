@@ -36,7 +36,6 @@ nosetests.xml
 
 # Project log files
 logs/
-*.log
 
 # Project swp file
 *.swp
