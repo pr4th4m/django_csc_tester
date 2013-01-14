@@ -154,7 +154,7 @@ INSTALLED_APPS = (
 )
 
 # required by sentry to communicate with the application
-SENTRY_DSN = "http://28ac15496b8e419daba4c3013f215a70:3dadeb381db243bc9a069d9ca22597c8@localhost:9000/4"
+SENTRY_DSN = "http://be4c0de6efd04a86b945bf57a74b5c06:177987372c49434b9d9f1b41243e1272@localhost:9000/3"
 
 # A sample logging configuration. The only tangible logging
 # performed by this configuration is to send an email to

@@ -21,7 +21,7 @@ home_dict = {
 
 urlpatterns = patterns('',
                        # Examples:
-                       url(r'^$', 'django_csc_tester.views.home', home_dict, name='home'),
+                       url(r'^$', 'csc_tester.views.home', home_dict, name='home'),
 
                        # Uncomment the admin/doc line below to enable admin documentation:
                        url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
